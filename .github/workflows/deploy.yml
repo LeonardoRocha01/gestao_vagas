@@ -48,4 +48,4 @@ jobs:
           -e SPRING_DATASOURCE_USERNAME=${{ secrets.SPRING_DATASOURCE_USERNAME }} \
           -e SPRING_DATASOURCE_PASSWORD=${{ secrets.SPRING_DATASOURCE_PASSWORD }} \
           --name gestao-vagas \
-          LeonardoRocha01/gestao_vagas:latest
+          leonard0rocha/gestao_vagas:latest
